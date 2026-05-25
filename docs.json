@@ -17,7 +17,8 @@
             "group": "Community Overview",
             "pages": [
               "welcome"
-            ]
+            ],
+            "icon": "hand-wave"
           }
         ]
       },
