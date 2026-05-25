@@ -35,8 +35,10 @@
         "tab": "Contact & Support",
         "groups": [
           {
-            "group": "API documentation",
-            "pages": []
+            "group": "Contact & Support",
+            "pages": [
+              "contact/contact-and-support"
+            ]
           }
         ]
       }
