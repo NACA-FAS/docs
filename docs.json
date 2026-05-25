@@ -11,37 +11,30 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Overview",
         "groups": [
           {
             "group": "Getting started",
             "pages": [
               "index"
             ]
-          },
+          }
+        ]
+      },
+      {
+        "tab": "Staff Hub",
+        "groups": [
           {
-            "group": "Customization",
-            "pages": []
-          },
-          {
-            "group": "Writing content",
-            "pages": []
-          },
-          {
-            "group": "Agent ready",
+            "group": "API documentation",
             "pages": []
           }
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Contact & Support",
         "groups": [
           {
             "group": "API documentation",
-            "pages": []
-          },
-          {
-            "group": "Endpoint examples",
             "pages": []
           }
         ]
