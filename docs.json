@@ -69,5 +69,6 @@
       "destination": "/welcome",
       "permanent": true
     }
-  ]
+  ],
+  "favicon": "/images/favicon_new.svg"
 }
