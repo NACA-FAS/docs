@@ -62,5 +62,11 @@
   "icons": {
     "library": "fontawesome"
   },
-  "redirects": []
+  "redirects": [
+    {
+      "source": "",
+      "destination": "/welcome",
+      "permanent": true
+    }
+  ]
 }
