@@ -65,7 +65,7 @@
   },
   "redirects": [
     {
-      "source": "",
+      "source": "/",
       "destination": "/welcome",
       "permanent": true
     }
