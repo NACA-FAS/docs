@@ -14,9 +14,9 @@
         "tab": "Overview",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Community Overview",
             "pages": [
-              "index"
+              "welcome"
             ]
           }
         ]
