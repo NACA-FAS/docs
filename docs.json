@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Five Stack",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#D62828",
+    "light": "#FF3030",
+    "dark": "#A81F1F"
   },
   "favicon": "/favicon.svg",
   "navigation": {
