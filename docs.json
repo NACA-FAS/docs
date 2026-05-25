@@ -24,8 +24,10 @@
         "tab": "Staff Hub",
         "groups": [
           {
-            "group": "API documentation",
-            "pages": []
+            "group": "Staff Hub",
+            "pages": [
+              "staff-hub/staff-guidelines"
+            ]
           }
         ]
       },
