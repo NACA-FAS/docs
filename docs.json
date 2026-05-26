@@ -15,7 +15,8 @@
           {
             "group": "Community Overview",
             "pages": [
-              "welcome"
+              "welcome",
+              "community/faq"
             ]
           }
         ]
