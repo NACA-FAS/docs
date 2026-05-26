@@ -16,7 +16,8 @@
             "group": "Community Overview",
             "pages": [
               "welcome",
-              "community/faq"
+              "community/faq",
+              "community/discord-server-guidelines"
             ]
           }
         ]
