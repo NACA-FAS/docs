@@ -30,7 +30,8 @@
           {
             "group": "Staff Hub",
             "pages": [
-              "staffing/staff-guidelines"
+              "staffing/staff-guidelines",
+              "staffing/who-to-contact"
             ]
           }
         ]
