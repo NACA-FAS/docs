@@ -31,7 +31,11 @@
             "group": "Staff Hub",
             "pages": [
               "staffing/staff-guidelines",
-              "staffing/who-to-contact"
+              "staffing/who-to-contact",
+              "staffing/recipes",
+              "staffing/moderation-action-guide",
+              "staffing/permittable-commands",
+              "staffing/executive-responsibilities"
             ]
           }
         ]
